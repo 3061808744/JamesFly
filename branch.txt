@@ -1,2 +1,5 @@
 创建分支的命令 git checkout -b dev -b参数表示创建并切换
+git checkout 切换分支
 git branch 查看当前分支
+git merge合并分支到当前分支
+git branch -d删除分支
