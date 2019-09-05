@@ -4,3 +4,4 @@ git branch 查看当前分支
 git merge合并分支到当前分支
 git branch -d删除分支
 git push origin dev:dev推送本地分支到远程
+git pull origin dev:master取回origin主机的dev分支与本地的master分支合并 如果需要推到远程仓库则需要 git push -u origin master
